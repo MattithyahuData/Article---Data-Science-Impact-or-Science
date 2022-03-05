@@ -3,7 +3,7 @@
 
 #### In technology, finance, and every industry, impact will always trump science. 
 
-<img src="images/scale.jpg"/>
+<img src="scale.jpg"/>
 
 <br>
 <br>
